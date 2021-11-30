@@ -33,5 +33,5 @@ Dentre minhas habilidades técnicas,
     - ```MongoDB```
 
 ## Contatos
-* [GIT](https://github.com/joaosoeiro)
+* [GitHub](https://github.com/joaosoeiro)
 * [LinkedIn](https://www.linkedin.com/in/joaovsoeiro/)
