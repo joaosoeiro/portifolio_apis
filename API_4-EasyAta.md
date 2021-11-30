@@ -69,7 +69,6 @@ O projeto tem como principal objetivo permitir usuários do nicho corporativo ge
 
 
 ### Hard Skills
-Dentre as habilidades técnicas, obtive o seguinte avanço:
 - Criação de sistema web utilizando linguagem de programação `Java` e conjunto do Framework `Spring`:
     - Sei fazer com ajuda.
 - Integração com banco de dados relacional utilizando ORM com `java` e `Hibernate`:
