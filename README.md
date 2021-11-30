@@ -24,7 +24,6 @@ João Vitor de Oliveira Soeiro, 23 anos, estudante do quinto semestre de Anális
 [ByCar](https://github.com/joaosoeiro/portifolio_apis/blob/main/API_5-ByCar.md)
 
 ## Meus Principais Conhecimentos
-Dentre minhas habilidades técnicas, 
 
 - Linguagens e tecnologias com as quais tenho maior afinidade atualmente:
     - ```Python``` 

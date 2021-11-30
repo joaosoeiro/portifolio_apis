@@ -66,7 +66,7 @@ Requisitos não Funcionais:
 
 
 ### Contribuições Pessoais
-Parte do desenvolvimento do backend do projeto, pesquisa conjunta e aplicação da lógica e da biblioteca Pandas e Cx-Freeze para criação do executável do software, tratamento do arquivo CSV contendo os dados, junto com a possibilidade de posteriormente gerar os relatórios.
+Tomei parte do desenvolvimento do backend do projeto, na pesquisa conjunta e aplicação da lógica e da biblioteca Pandas e Cx-Freeze para criação do executável do software, e no tratamento do arquivo CSV contendo os dados, junto com a possibilidade de posteriormente gerar os relatórios.
 
 ### Hard Skills
 

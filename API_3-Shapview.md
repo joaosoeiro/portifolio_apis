@@ -49,7 +49,7 @@ A ferramenta também permite realizar a extração de dados contidos no banco de
 
 
 ### Contribuições Pessoais
-Participação no desenvolvimento do backend da aplicação, dando suporte na criação das rotas para manuseio dos arquivos e armazenamento e requisição no banco, bem como pesquisa e uso da ferramenta PostGIS aliada ao PostgreSQL afim de possibilitar a inserção dos arquivos Shapefile.
+Participei no desenvolvimento do backend da aplicação, dando suporte na criação das rotas para manuseio dos arquivos e armazenamento e requisição no banco, bem como pesquisa e uso da ferramenta PostGIS aliada ao PostgreSQL afim de possibilitar a inserção dos arquivos Shapefile.
 
 ### Hard Skills
 **Python:** Melhora significativa na habilidade, tendo a possibilidade de unir a lógica de recebimento e tratamento de um arquivo em formato completamente diferente de experiências anteriores ao uso de um banco de dados totalmente funcional;
