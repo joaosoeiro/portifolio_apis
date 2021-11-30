@@ -1,2 +1,37 @@
-# portifolio_apis
-Portifolio contendo detalhes sobre participações nos projetos integradores da Fatec.
+# João Vitor de Oliveira Soeiro
+
+## Introdução
+João Vitor de Oliveira Soeiro, 23 anos, estudante do quinto semestre de Análise e Desenvolvimento de Sistemas na Fatec; Instituição na qual ingressei no meio de 2019, podendo desde então participar de projetos Integradores com empresas e equipes reais, podendo ter a experiência de o que é pedido e oferecido pelo mercado de trabalho, e tendo maior autonomia para desenvolvimento na prática.
+
+<img src="https://user-images.githubusercontent.com/54710426/143999946-0ad19689-bfb6-4846-ab4e-0d38480ac8f7.PNG" alt="drawing" width="400"/>
+  
+
+## Projetos os quais participei: 
+
+### 2019-2
+[ArduGrow](https://github.com/Mateus-Prestes/Portfolio_MateusPrestes/blob/main/API_1-SMARTPARKING.md)
+
+### 2020-1
+[MetaApp](https://github.com/Mateus-Prestes/Portfolio_MateusPrestes/blob/main/API_2-DP_Standardize.md)
+
+### 2020-2
+[ShapView](https://github.com/Mateus-Prestes/Portfolio_MateusPrestes/blob/main/API_3-SHAPEVIEW.md)
+
+### 2021-1
+[EasyATA](https://github.com/Mateus-Prestes/Portfolio_MateusPrestes/blob/main/API_4-EASYATA.md)
+
+### 2021-2
+[ByCar](https://github.com/Mateus-Prestes/Portfolio_MateusPrestes/blob/main/API_5-ONLYMOTORS.md)
+
+## Meus Principais Conhecimentos
+Dentre minhas habilidades técnicas, 
+
+- Linguagens e tecnologias com as quais tenho maior afinidade atualmente:
+    - ```Python``` 
+    - ```PostGreSQL```
+    - ```Flask```
+    - ```MongoDB```
+
+## Contatos
+* [GIT](https://github.com/joaosoeiro)
+* [LinkedIn](https://www.linkedin.com/in/joaovsoeiro/)
