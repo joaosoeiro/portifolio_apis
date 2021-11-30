@@ -60,7 +60,7 @@ podem visualizar dados de outros anúncios.
 
 
 ### Contribuições Pessoais
-Atuai no Backend do projeto, criando/ administrando o banco de dados e ajudando na criação das rotas também, bem como a parte de tratamento e envio dos .csv para o DB.
+Atuei no Backend do projeto, criando/ administrando o banco de dados e ajudando na criação das rotas também, bem como a parte de tratamento e envio dos .csv para o DB.
 
 ### Hard Skills
 **Python:** Melhores práticas de programação, desenvolvimento de uma aplicação móvel completa e integração com o MongoDB; Sei fazer com autonomia.
