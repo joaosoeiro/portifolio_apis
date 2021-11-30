@@ -58,9 +58,13 @@ O projeto tem como principal objetivo permitir usuários do nicho corporativo ge
 ### Tecnologias adotadas na solução
 
 **Java**: Em conjunto do framework `Spring` para criação do sistema web;
+
 **Spring**: Framework java para criação de aplicações web.
+
 **MySQL**: Sistema gerenciador de Banco de Dados Relacional. Utilizado para salvar os cadastros de usuários, seus níveis de acesso e o registro de novas Atas de Reunião, registrando todo o ciclo de vida de uma Ata de Reunião.
+
 **HTML**, **CSS** e **JavaScript**: Criação e desenvolvimento do design da Interface do usuário.
+
 **React**: Uma biblioteca JavaScript para criar interfaces de usuário
 
 

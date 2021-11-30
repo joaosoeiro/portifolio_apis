@@ -9,19 +9,19 @@ João Vitor de Oliveira Soeiro, 23 anos, estudante do quinto semestre de Anális
 ## Projetos os quais participei: 
 
 ### 2019-2
-[ArduGrow](https://github.com/Mateus-Prestes/Portfolio_MateusPrestes/blob/main/API_1-SMARTPARKING.md)
+[ArduGrow](https://github.com/joaosoeiro/portifolio_apis/blob/main/API_1-ArduGrow.md)
 
 ### 2020-1
-[MetaApp](https://github.com/Mateus-Prestes/Portfolio_MateusPrestes/blob/main/API_2-DP_Standardize.md)
+[MetaApp](https://github.com/joaosoeiro/portifolio_apis/blob/main/API_2-MetaApp.md)
 
 ### 2020-2
-[ShapView](https://github.com/Mateus-Prestes/Portfolio_MateusPrestes/blob/main/API_3-SHAPEVIEW.md)
+[ShapView](https://github.com/joaosoeiro/portifolio_apis/blob/main/API_3-Shapview.md)
 
 ### 2021-1
-[EasyATA](https://github.com/Mateus-Prestes/Portfolio_MateusPrestes/blob/main/API_4-EASYATA.md)
+[EasyATA](https://github.com/joaosoeiro/portifolio_apis/blob/main/API_4-EasyAta.md)
 
 ### 2021-2
-[ByCar](https://github.com/Mateus-Prestes/Portfolio_MateusPrestes/blob/main/API_5-ONLYMOTORS.md)
+[ByCar](https://github.com/joaosoeiro/portifolio_apis/blob/main/API_5-ByCar.md)
 
 ## Meus Principais Conhecimentos
 Dentre minhas habilidades técnicas, 

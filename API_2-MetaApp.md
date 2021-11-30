@@ -48,8 +48,10 @@ Requisitos não Funcionais:
 
 
 ### Tecnologias adotadas na solução
-*HTML e CSS:** Utilizados para desenvolvimento de interface gráfica simples para o usuário;
+**HTML e CSS:** Utilizados para desenvolvimento de interface gráfica simples para o usuário;
+
 **Python:** Utilizado para tratamento dos dados contidos em documentos .csv, efetuando a leitura, validação, correção e armazenamento no diretório local do usuário;
+
 **Jupyter notebook:** Utilizado como ferramenta de desenvolvimento colaborativo para o time de devs, facilitando visuzliação e compartilhamento das atualizações do código de forma dinâmica.
 
 ### Funcionamento
@@ -69,6 +71,8 @@ Parte do desenvolvimento do backend do projeto, pesquisa conjunta e aplicação 
 ### Hard Skills
 
 - Análise de dados com python3 de arquivos `xlsx` e `csv`; Sei fazer com autonomia; Primeira experiência com o desenvolvimento efetivo de uma aplicação do início ao fim, utilizando metodologias ágeis e lógica aplicada ao uso de um cliente ao invés de apenas para resolução de problemas simples. Aprendizado especifico daslibraries Pandas e cx-freeze, junto com uso do Jupyter notebook.
+
+
 **Jupyter Notebook:** Primeiro contato com a ferramenta, que se demonstroufundamental para facilitar o processo de desenvolvimento que estava em mão de diversos desenvolvedores, permitindo fácil compartilhamento e visualizaçáo de informaçóes em tempo real.
 
 

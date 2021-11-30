@@ -45,8 +45,11 @@ podem visualizar dados de outros anúncios.
 
 
 ### Tecnologias adotadas na solução
+
 **Python:** Utilizado no backend da aplicação;
+
 **React Native:** Utilizado para desenvolvimento do frontend do app;
+
 **MongoDB:** Banco de dados não estruturado selecionado para ser utilizado e armazenar dados de users e anúncios da plataforma.
 
 

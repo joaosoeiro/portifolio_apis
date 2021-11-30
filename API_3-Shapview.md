@@ -39,8 +39,11 @@ A ferramenta também permite realizar a extração de dados contidos no banco de
 
 
 ### Tecnologias adotadas na solução
+
 **Python:** Em conjunto da biblioteca **Geopandas** para a análise dos dados geoespaciais e alcance dos indicadores propostos.
+
 **Flask:** Micro framework do python para criação de aplicações web.
+
 **HTML**, **CSS** e **JavaScript:** Para a criação e desenvolvimento do design da Interface do usuário.
 
 
@@ -50,7 +53,9 @@ Participação no desenvolvimento do backend da aplicação, dando suporte na cr
 
 ### Hard Skills
 **Python:** Melhora significativa na habilidade, tendo a possibilidade de unir a lógica de recebimento e tratamento de um arquivo em formato completamente diferente de experiências anteriores ao uso de um banco de dados totalmente funcional;
+
 **Flask:** Primeira experiëncia de trabalho em conjunto com um time de frontend, podendo desenvolver conhecimento da biblioteca em questão com a criação de rotas na aplicação a serem usadas pelo front;
+
 **SQL:** Primeiro contato com a tecnologia, permitindo adquirir noções básicas sobre a lógica por trás de um banco estruturado e também a efetuar comandos, podendo manipular dados de diferentes tabelas e organizá-los da forma desejada.
 
 ### Soft Skills
