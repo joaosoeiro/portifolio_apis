@@ -12,8 +12,12 @@ Link:  [gsw.com.br](http://www.gsw.com.br/index.php).
 ### Visão do Projeto
 O app tem como objetivo facilitar o intermédio entre compradores e vendedores de veículos automotores em uma plataforma on-line, ágil e segura.
 
-
 ![bycarui](https://user-images.githubusercontent.com/54710426/144002954-dcc89bf9-ea65-4b1e-9f36-00c83ac5acc0.PNG)
+
+![bycarui2](https://user-images.githubusercontent.com/54710426/144003206-cf3fbd0c-71a4-4ff7-bba7-61dedf7254e7.PNG)
+
+![bycarui3](https://user-images.githubusercontent.com/54710426/144003308-99ce09b5-ca46-4c4b-bccf-180db9613444.PNG)
+
 
 #### Lista de Requistos 
 
