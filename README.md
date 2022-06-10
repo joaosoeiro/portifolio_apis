@@ -1,7 +1,7 @@
 # João Vitor de Oliveira Soeiro
 
 ## Introdução
-João Vitor de Oliveira Soeiro, 23 anos, estudante do quinto semestre de Análise e Desenvolvimento de Sistemas na Fatec; Instituição na qual ingressei no meio de 2019, podendo desde então participar de projetos Integradores com empresas e equipes reais, podendo ter a experiência de o que é pedido e oferecido pelo mercado de trabalho, e tendo maior autonomia para desenvolvimento na prática.
+João Vitor de Oliveira Soeiro, 24 anos, estudante do quinto semestre de Análise e Desenvolvimento de Sistemas na Fatec; Instituição na qual ingressei no meio de 2019, podendo desde então participar de projetos Integradores com empresas e equipes reais, podendo ter a experiência de o que é pedido e oferecido pelo mercado de trabalho, e tendo maior autonomia para desenvolvimento na prática.
 
 <img src="https://user-images.githubusercontent.com/54710426/143999946-0ad19689-bfb6-4846-ab4e-0d38480ac8f7.PNG" alt="drawing" width="400"/>
   
