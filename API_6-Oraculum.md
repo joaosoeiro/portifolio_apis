@@ -77,13 +77,13 @@ Atuei no Backend do projeto, encabeçando o início da pesquisa na primeira Spri
 
 
 ### Hard Skills
-**Java:** Melhores práticas de programação, desenvolvimento de uma aplicação CRUD Web completa e integração com o MySQL; Sei fazer com suporte;
+`Java` Evolução nas práticas de programação, desenvolvimento de uma aplicação CRUD Web completa e integração com o MySQL; Sei fazer com suporte;
 
-**Python:** Melhores práticas de programação, suporte no tratamento dos dados a serem consumidos e ajustes nos cálculos da I.A. e análise de sobevivência (Curva Kaplan Meier)
+`Python` Melhores práticas de programação, suporte no tratamento dos dados a serem consumidos e ajustes nos cálculos da I.A. e análise de sobevivência (Curva Kaplan Meier); Sei fazer com suporte;
 
-**MySQL:** Administração e envio de dados tratados para o banco, criação de Queries necessárias ao produto, raspagem e tratamento de dados a serem consumidos por I.A.; Sei fazer com suporte;
+`MySQL`Administração e envio de dados tratados para o banco, criação de Queries necessárias ao produto, raspagem e tratamento de dados a serem consumidos por I.A.; Sei fazer com autonomia;
 
-**Prometheus:** Implementação e coleta de métricas de aplicações diversas, sabendo definir parâmetros necessários para verificação da saúde do sistema e plotando-os via Grafana;
+`Prometheus/ Grafana` Implementação e coleta de métricas de aplicações diversas, sabendo definir parâmetros necessários para verificação da saúde do sistema e plotando-os via Grafana; Sei fazer com autonomia.
 
 
 ### Soft Skills
