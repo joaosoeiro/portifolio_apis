@@ -59,17 +59,17 @@ IMG 4: Avisos via canal do Slack alertando queda iminente do sistema até eventu
 
 ### Tecnologias adotadas na solução
 
-**VueJS:** Utilizado no front-end da aplicação de cadastro;
+`VueJS` Utilizado no front-end da aplicação de cadastro;
 
-**Java:** Utilizado para desenvolvimento do backend da aplicação de cadastro;
+`Java` Utilizado para desenvolvimento do backend da aplicação de cadastro;
 
-**Prometheus:** Utilizado para raspagem de dados da aplicação;
+`Prometheus` Utilizado para raspagem de dados da aplicação;
 
-**Grafana:** Utilizado para transformas as métricas selecionadas em gráficos e como suporte para consumo de informações da I.A.;
+`Grafana` Utilizado para transformas as métricas selecionadas em gráficos e como suporte para consumo de informações da I.A.;
 
-**Python:** Utilizado conforme método recomendado pelo cliente para desenvolvimento da I.A.;
+`Python` Utilizado conforme método recomendado pelo cliente para desenvolvimento da I.A.;
 
-**MySQL:** Banco de dados utilizado para armazenas as informações das aplicações.
+`MySQL` Banco de dados utilizado para armazenas as informações das aplicações.
 
 
 ### Contribuições Pessoais
