@@ -12,20 +12,20 @@ Link:  [uol.com.br](http://www.uol.com.br/index.php).
 
 ### Visão do Projeto
 O produto teve como objetivo o monitoramento de uma aplicação, também desenvolvida pelo time, afim de coletar dados e ter a possibilidade de prever e avisar o usuário em caso de falhas iminentes.
-
+<br/>
 ![cadastro_rodando](https://user-images.githubusercontent.com/54710426/173150325-e2f3d64a-22f5-4c42-bc92-eb75bb6e155f.gif)
 Aplicação de cadastro de usuários desenvolvida em Java e em pleno funcionamento.
-
+<br/>
 ![grafana_show](https://user-images.githubusercontent.com/54710426/173150370-decd8e77-da58-436d-8fdc-bd9466be310f.gif)
 Gráficos do Grafana exibindo métricas coletadas do sistema via Prometheus.
-
+<br/>
 ![analisesurv](https://user-images.githubusercontent.com/54710426/173150997-04031e53-0fa3-48eb-a9e8-31bb2bd8d345.PNG)
 Processo de análise de sobrevivência sendo efetuado com base nos dados coletados pelo nosso CSV. (Imagem ilustrativa, para página detalhada clique [aqui](https://github.com/Oraculum-Fatec/api-previsao-de-indisponibilidade-sites/blob/main/SurvivalAnalysis.ipynb)
-
+<br/>
 ![Slack_message](https://user-images.githubusercontent.com/54710426/173150382-3d062c22-b85d-4a0d-81aa-19c460708d71.png)
 Avisos via canal do Slack alertando queda iminente do sistema até eventual falha.
-
-
+<br/>
+<br/>
 #### Lista de Requistos 
 
 `Requisitos Funcionais`: 
