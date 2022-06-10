@@ -1,4 +1,4 @@
-# Aprendizagem por Projetos Integrados 2021-1
+# Aprendizagem por Projetos Integrados 2021-2
 ![bycar](https://user-images.githubusercontent.com/54710426/143996382-5957fd8b-9954-42c9-82d7-84caf1653117.PNG)
 
 ### Parceiro Acadêmico
