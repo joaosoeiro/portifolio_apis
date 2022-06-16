@@ -31,9 +31,9 @@ João Vitor de Oliveira Soeiro, 24 anos, estudante do quinto semestre de Anális
 - Linguagens e tecnologias com as quais tenho maior afinidade atualmente:
     - ```Python``` 
     - ```PostGreSQL```
-    - ```Flask```
     - ```MongoDB```
-
+    - ```Flask```
+    - ```Pandas```
 ## Contatos
 * [GitHub](https://github.com/joaosoeiro)
 * [LinkedIn](https://www.linkedin.com/in/joaovsoeiro/)
