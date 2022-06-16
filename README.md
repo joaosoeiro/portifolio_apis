@@ -23,6 +23,9 @@ João Vitor de Oliveira Soeiro, 24 anos, estudante do quinto semestre de Anális
 ### 2021-2
 [ByCar](https://github.com/joaosoeiro/portifolio_apis/blob/main/API_5-ByCar.md)
 
+### 2022-1
+[Oraculum](https://github.com/joaosoeiro/portifolio_apis/blob/main/API_6-Oraculum.md))
+
 ## Meus Principais Conhecimentos
 
 - Linguagens e tecnologias com as quais tenho maior afinidade atualmente:
